@@ -1,0 +1,5 @@
+C:\Users\datng\source\repos\Winform_B4-5951071013-Nguyen Quoc Dat\Winform_B4-5951071013-Nguyen Quoc Dat\obj\Debug\Winform_B4-5951071013-Nguyen Quoc Dat.csprojAssemblyReference.cache
+C:\Users\datng\source\repos\Winform_B4-5951071013-Nguyen Quoc Dat\Winform_B4-5951071013-Nguyen Quoc Dat\obj\Debug\Winform_B4_5951071013_Nguyen_Quoc_Dat.Form1.resources
+C:\Users\datng\source\repos\Winform_B4-5951071013-Nguyen Quoc Dat\Winform_B4-5951071013-Nguyen Quoc Dat\obj\Debug\Winform_B4_5951071013_Nguyen_Quoc_Dat.Properties.Resources.resources
+C:\Users\datng\source\repos\Winform_B4-5951071013-Nguyen Quoc Dat\Winform_B4-5951071013-Nguyen Quoc Dat\obj\Debug\Winform_B4-5951071013-Nguyen Quoc Dat.csproj.GenerateResource.cache
+C:\Users\datng\source\repos\Winform_B4-5951071013-Nguyen Quoc Dat\Winform_B4-5951071013-Nguyen Quoc Dat\obj\Debug\Winform_B4-5951071013-Nguyen Quoc Dat.csproj.CoreCompileInputs.cache
